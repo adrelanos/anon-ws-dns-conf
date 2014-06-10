@@ -23,7 +23,7 @@ Description: DNS configuration Anonymity Linux Distribution Workstations
  on the Gateway's firewall.
  .
  This package is simply installing /etc/resolv.conf which points to
- 192.168.0.10, where an Anon-Gateway is supposed to provide a DnsPort on port
+ 10.152.152.10, where an Anon-Gateway is supposed to provide a DnsPort on port
  53.
  .
  When you do not wish to use the Transparent DNS features, this package can be
