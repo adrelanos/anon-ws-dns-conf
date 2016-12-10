@@ -1,3 +1,15 @@
+commit a1a410c3a6f46e98acce99a0fb7b28719e812a89
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Nov 21 17:39:15 2016 +0000
+
+    readme
+
+commit 65a1c25e53f4c1f7c84e627a4dc1b3b5a56af786
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Aug 25 14:07:47 2015 +0000
+
+    bumped changelog version
+
 commit 6f3ff5d0cd6c70e416bb61ccb26ae7ebfd601e50
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Jun 3 14:59:18 2015 +0000
