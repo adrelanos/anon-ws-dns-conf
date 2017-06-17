@@ -16,7 +16,7 @@ Package: anon-ws-dns-conf
 Architecture: all
 Depends: ${misc:Depends}
 Provides: ${diverted-files}
-Conflicts: resolvconf, openresolv, ${diverted-files}
+Conflicts: ${diverted-files}
 Description: DNS configuration Anonymity Linux Distribution Workstations
  Whether a Anonymity Linux Distribution Gateway supports anonymized system DNS
  for Workstation's traffic (also known as Transparent DNS Proxy) mainly depends
