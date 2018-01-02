@@ -1,3 +1,19 @@
+commit 427aac3a96dfd9e9b5a7e229574096c1879d98a0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Jan 2 15:01:26 2018 +0000
+
+    delete lib/systemd/system/systemd-resolved.service.d/40_anon-dns-conf.conf
+    
+    merged into anon-apps-config
+    
+    https://phabricator.whonix.org/T762
+
+commit 2b35646a077a16092ff6b731b9866fa20ee1b5bf
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Jul 26 14:26:05 2017 +0000
+
+    bumped changelog version
+
 commit f5e326d17abd875d3de3e554880c6f4c18bab274
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Sat Jun 17 12:28:10 2017 +0000
