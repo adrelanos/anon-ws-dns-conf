@@ -1,4 +1,11 @@
 ## Copyright (C) 2012 - 2018 ENCRYPTED SUPPORT LP <adrelanos@riseup.net>
 ## See the file COPYING for copying conditions.
 
+#### meta start
+#### project Whonix
+#### category networking and dns
+#### description set <code>nameserver 10.152.152.10</code>
+## This works different in Qubes-Whonix.
+#### meta end
+
 nameserver 10.152.152.10
