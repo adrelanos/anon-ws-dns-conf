@@ -4,7 +4,8 @@
 #### meta start
 #### project Whonix
 #### category networking and dns
-#### description set <code>nameserver 10.152.152.10</code>
+#### description
+## set <code>nameserver 10.152.152.10</code>
 ## This works different in Qubes-Whonix.
 #### meta end
 
